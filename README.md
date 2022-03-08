@@ -9,7 +9,7 @@
 
 #### 3. ```ssh-keygen``` and then hit 3 times '*ENTER button*'
  
-#### 4. ```cat ~/.ssh/id_rsa.pub``` and then copy the *ssh key* ('*ctrl*' + '*insert button*')
+#### 4. ```clip < ~/.ssh/id_rsa.pub``` and then copy the *ssh key* ('*ctrl*' + '*insert button*')
 
 #### 5. Put it into github.com > settings > new SSH KEY
 
